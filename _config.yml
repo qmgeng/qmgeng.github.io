@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 天镶的博客
+title: Aspirin的博客
 subtitle: 
 description: 
-author: 天镶
-email: lingyucoder@gmail.com
+author: Aspirin
+email: qmgeng@gmail.com
 language: zh-CN
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://lingyu.wang
+url: http://hodor.win
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
